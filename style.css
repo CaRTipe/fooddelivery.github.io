@@ -115,12 +115,9 @@ a:hover {
 }
 
 @media screen and (max-width: 480px) {
-  html,
-  body {
-    overflow-x: hidden;
-  }
   body {
     background-color: white;
+    overflow-x: hidden;
   }
   nav {
     width: 300px;
