@@ -114,7 +114,7 @@ a:hover {
   height: 133px;
 }
 
-/* @media screen and (min-width: 360px) {
+@media screen and (min-width: 360px) {
   body {
     background-color: white;
   }
@@ -215,4 +215,4 @@ a:hover {
     top: 660%;
   }
 
-} */
+}
