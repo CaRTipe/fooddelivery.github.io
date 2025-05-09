@@ -70,7 +70,7 @@ a:hover {
   align-items: center;
   position: absolute;
   top: 150%;
-  left: 10%;
+  left: 20%;
   gap: 200px;
 }
 .varieties {
@@ -80,7 +80,7 @@ a:hover {
   gap: 250px;
   position: absolute;
   top: 240%;
-  left: 20%;
+  left: 30%;
 }
 .checkout {
   display: flex;
@@ -88,7 +88,7 @@ a:hover {
   align-items: center;
   position: absolute;
   top: 340%;
-  left: 10%;
+  left: 20%;
   gap: 200px;
 }
 .down {
